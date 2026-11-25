@@ -13,7 +13,7 @@ input link -> process -> output .png
 ## Installation
 
 ```bash
-git clone https://github.com/hilalunivers08/qr-generator.git
+git clone https://github.com/hiiell/qr-generator.git
 cd qr-generator
 python -m pip install segno
 ```
